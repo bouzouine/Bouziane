@@ -6,4 +6,4 @@ Here you'll find:
 - Packaging design
 - UI/UX work
 
-Contact: bouziane@email.com
+Contact: bouziane.graphiste@gmail.com
